@@ -1,5 +1,10 @@
 statement1
 statement2
 statement3
+<<<<<<< Updated upstream
 statement4
 statement5
+=======
+statement10
+statement11
+>>>>>>> Stashed changes
